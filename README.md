@@ -1,1 +1,1 @@
-# Diabetes-prediction
+# Diabetes-prediction using Random forest classifier
